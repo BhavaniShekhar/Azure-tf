@@ -1,0 +1,1 @@
+Namaste Blob store on Azure
